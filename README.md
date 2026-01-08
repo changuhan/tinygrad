@@ -12,3 +12,5 @@ A minimal scalar reverse-mode autodiff engine (micrograd-style) built from scrat
 ## Install (editable)
 ```bash
 python -m pip install -e .
+
+Inspired by Andrej Karpathy's micrograd project!
