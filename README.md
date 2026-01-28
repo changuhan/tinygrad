@@ -1,4 +1,4 @@
-# my_micrograd
+# tinygrad
 
 A minimal scalar reverse-mode autodiff engine (micrograd-style) built from scratch in Python.
 
